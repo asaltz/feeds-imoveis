@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync http://xml.vivareal.com/vrsync.xsd">
+
+  <Header>
+    <Provider>Nome do Desenvolvedor do Feed</Provider>
+    <Email>desenvolvefeed@feed.com.br</Email>
+    <ContactName>Nome do Cliente</ContactName>
+    <CreationDate>2026-09-25T10:00:00</CreationDate>
+    <Telephone>11-3450 4646</Telephone>
+  </Header>
+
+  <Listings>
+    <Listing>
+
+      <!-- Identificação do anúncio -->
+      <ListingID>CA0001</ListingID>
+      <Title><![CDATA[Lindo Apartamento à venda em São Paulo]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+
+      <!-- Endereço -->
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">Sao Paulo</State>
+        <City>São Paulo</City>
+        <Zone>Zona Sul</Zone>
+        <Neighborhood>Consolação</Neighborhood>
+        <Address>Rua Bela Cintra</Address>
+        <StreetNumber>539</StreetNumber>
+        <Complement>APT 12</Complement>
+        <PostalCode>01415-003</PostalCode>
+        <Latitude>-23.5531131</Latitude>
+        <Longitude>-46.659864</Longitude>
+      </Location>
+
+      <!-- Fotos e vídeo -->
+      <Media>
+        <Item medium="video">https://www.youtube.com/watch?v=SEU_VIDEO_AQUI</Item>
+        <Item medium="image" caption="Fachada" primary="true">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/images/2e/2e492163-58de-4a52-a751-dc09bd3cba7f.webp</Item>
+        <Item medium="image" caption="Sala">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/images/fd/fd27b6ba-9d7c-43ad-ac91-9558d0ceaa4c.webp</Item>
+        <Item medium="image" caption="Cozinha">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/images/1a/1a9012d9-d387-4b08-8747-a3a91cc9e353.webp</Item>
+        <Item medium="image" caption="Quarto 1">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/images/0f/0fa6ca82-0999-46d7-842f-b36ff32523c7.webp</Item>
+        <Item medium="image" caption="Varanda">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/images/f6/f68c81d5-6a54-4081-ada7-c0ef0e217283.webp</Item>
+      </Media>
+
+      <!-- Tour virtual (opcional) -->
+      <VirtualTourLink>https://seusite.com.br/tour-virtual/CA0001</VirtualTourLink>
+
+      <!-- Dados de contato do anunciante -->
+      <ContactInfo>
+        <Name>Imobiliaria Teste</Name>
+        <Email>teste@teste.com.br</Email>
+        <Website>https://www.teste.com.br</Website>
+        <Telephone>(21) 0000-0000</Telephone>
+        <Location>
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="RJ">Rio de Janeiro</State>
+          <City>Rio de Janeiro</City>
+          <Neighborhood>Leblon</Neighborhood>
+          <Address>Rua Humberto de Campos, 1003</Address>
+          <PostalCode>22430-190</PostalCode>
+        </Location>
+      </ContactInfo>
+
+      <!-- Detalhes do imóvel -->
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <UsageType>Residential</UsageType>
+
+        <ListPrice currency="BRL">1500000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">1200</PropertyAdministrationFee>
+        <Iptu currency="BRL" period="Yearly">4800</Iptu>
+
+        <LivingArea unit="square metres">90</LivingArea>
+
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage>1</Garage>
+        <UnitFloor>7</UnitFloor>
+        <Floors>12</Floors>
+        <YearBuilt>2010</YearBuilt>
+
+        <Description><![CDATA[
+          Excelente apartamento na Consolação, próximo a toda infraestrutura de comércio e lazer do bairro. &lt;br&gt;&lt;br&gt;
+          &bull; 3 quartos, sendo 1 suíte &lt;br&gt;
+          &bull; Sala ampla com varanda &lt;br&gt;
+          &bull; Cozinha planejada &lt;br&gt;&lt;br&gt;
+          &lt;i&gt;Agende sua visita e conheça de perto este imóvel.&lt;/i&gt;
+        ]]></Description>
+
+        <Features>
+          <Feature>Elevator</Feature>
+          <Feature>Balcony</Feature>
+          <Feature>Builtin Wardrobe</Feature>
+          <Feature>Intercom</Feature>
+          <Feature>Concierge 24h</Feature>
+        </Features>
+
+      </Details>
+
+    </Listing>
+  </Listings>
+
+</ListingDataFeed>
