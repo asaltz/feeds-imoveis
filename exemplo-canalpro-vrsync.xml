@@ -102,6 +102,87 @@
       </Details>
 
     </Listing>
+
+    <Listing>
+
+      <!-- Identificação do anúncio -->
+      <ListingID>58</ListingID>
+      <Title><![CDATA[Casa à Venda com 6 Quartos, 8 Banheiros, 3 Vagas e 1.100m² em Urucurituba/AM]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+
+      <!-- Endereço -->
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="AM">Amazonas</State>
+        <City>Urucurituba</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Avenida Presidente Castelo Branco</Address>
+        <StreetNumber>100</StreetNumber>
+        <PostalCode>69180-000</PostalCode>
+        <Latitude>-3.13083</Latitude>
+        <Longitude>-58.15500</Longitude>
+      </Location>
+
+      <!-- Fotos -->
+      <Media>
+        <Item medium="image" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977039004091040/iudb5dw2otqzmgrlzdflodlh_sm.jpg</Item>
+        <Item medium="image" primary="false">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977038451844117/tzxtmea2otqzmgrlyzhizdk2_sm.jpg</Item>
+        <Item medium="image" primary="false">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977040659112025/izkbjcu2otqzmgrlzgizmwuy_sm.jpg</Item>
+        <Item medium="image" primary="false">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977040136092267/pznomvc2otqzmgrlzgi1ywy1_sm.jpg</Item>
+        <Item medium="image" primary="false">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977041874636362/aon89ye2otqzmgrlzjywotvi_sm.jpg</Item>
+        <Item medium="image" primary="false">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977039633998397/8eisiny2otqzmgrlzgi4ndm1_sm.jpg</Item>
+        <Item medium="image" primary="false">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977041284602756/3xwixhw2otqzmgrlzjyyzmyx_sm.jpg</Item>
+        <Item medium="image" primary="false">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977043753360355/mv6et102otqzmgrmmdg1odu4_sm.jpg</Item>
+        <Item medium="image" primary="false">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977043103924588/rx4v8bq2otqzmgrmmdg4ngm0_sm.jpg</Item>
+        <Item medium="image" primary="false">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977042448788356/bpcywdo2otqzmgrmmdhhzjzh_sm.jpg</Item>
+        <Item medium="image" primary="false">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977044891566764/epoa0y2otqzmgrmmjzkzjni_sm.jpg</Item>
+      </Media>
+
+      <!-- Dados de contato do anunciante -->
+      <ContactInfo>
+        <Name>Jaqueline Herms Barros</Name>
+        <Website>https://comalmaimoveis.com.br</Website>
+        <Telephone>(21) 98150-8894</Telephone>
+        <Location>
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="AM">Amazonas</State>
+          <City>Urucurituba</City>
+        </Location>
+      </ContactInfo>
+
+      <!-- Detalhes do imóvel -->
+      <Details>
+        <PropertyType>Residential / Home</PropertyType>
+        <UsageType>Residential</UsageType>
+
+        <ListPrice currency="BRL">5000000</ListPrice>
+        <PropertyAdministrationFee currency="BRL" period="Monthly">2500</PropertyAdministrationFee>
+
+        <LivingArea unit="square metres">1100</LivingArea>
+        <LotArea unit="square metres">1300</LotArea>
+
+        <Bedrooms>6</Bedrooms>
+        <Bathrooms>8</Bathrooms>
+        <Suites>6</Suites>
+        <Garage>3</Garage>
+
+        <Description><![CDATA[Descubra essa linda casa projetada pelo renomado arquiteto Erick Figueira de Mello. Com um pé na areia, este imóvel é o refúgio perfeito para quem busca conforto e estilo.<br><br>No primeiro piso, você será recebido por um hall de entrada que leva a duas suítes, cada uma com área externa e ducha privativa. A ampla sala de estar e jantar é ideal para momentos de confraternização, enquanto a sala de TV proporciona um espaço aconchegante para relaxar. Um jardim de inverno com sala de massagem convida ao bem-estar, e a varanda generosa conta com um espaço gourmet completo, incluindo churrasqueira, chapa e forno a lenha.<br><br>A área externa é um verdadeiro oásis, com um lindo jardim, piscina refrescante e sauna a vapor. Subindo pela escada linear, você encontrará um hall de circulação que dá acesso a quatro suítes, todas com banheiros em mármore piguês. A suíte master é um destaque à parte, com closet espaçoso e hidro para momentos de relaxamento.<br><br>No subsolo, um amplo salão de jogos e TV promete diversão para toda a família, além de uma academia e uma adega para os apreciadores de vinhos.]]></Description>
+
+        <Features>
+          <Feature>Pool</Feature>
+          <Feature>Sauna</Feature>
+          <Feature>Barbecue Grill</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Garden</Feature>
+          <Feature>Builtin Wardrobe</Feature>
+          <Feature>Concierge 24h</Feature>
+          <Feature>Balcony</Feature>
+        </Features>
+
+      </Details>
+
+    </Listing>
   </Listings>
 
 </ListingDataFeed>
