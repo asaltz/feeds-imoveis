@@ -16,23 +16,22 @@
 
       <!-- Identificação do anúncio -->
       <ListingID>CA0001</ListingID>
-      <Title><![CDATA[Lindo Apartamento à venda em São Paulo]]></Title>
+      <Title><![CDATA[Lindo Apartamento à venda em Urucurituba/AM]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
 
       <!-- Endereço -->
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">Sao Paulo</State>
-        <City>São Paulo</City>
-        <Zone>Zona Sul</Zone>
-        <Neighborhood>Consolação</Neighborhood>
-        <Address>Rua Bela Cintra</Address>
+        <State abbreviation="AM">Amazonas</State>
+        <City>Urucurituba</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Avenida Presidente Castelo Branco</Address>
         <StreetNumber>539</StreetNumber>
         <Complement>APT 12</Complement>
-        <PostalCode>01415-003</PostalCode>
-        <Latitude>-23.5531131</Latitude>
-        <Longitude>-46.659864</Longitude>
+        <PostalCode>69180-000</PostalCode>
+        <Latitude>-3.13083</Latitude>
+        <Longitude>-58.15500</Longitude>
       </Location>
 
       <!-- Fotos e vídeo -->
@@ -84,7 +83,7 @@
         <YearBuilt>2010</YearBuilt>
 
         <Description><![CDATA[
-          Excelente apartamento na Consolação, próximo a toda infraestrutura de comércio e lazer do bairro. &lt;br&gt;&lt;br&gt;
+          Excelente apartamento em Urucurituba, próximo a toda infraestrutura de comércio e lazer da região. &lt;br&gt;&lt;br&gt;
           &bull; 3 quartos, sendo 1 suíte &lt;br&gt;
           &bull; Sala ampla com varanda &lt;br&gt;
           &bull; Cozinha planejada &lt;br&gt;&lt;br&gt;
