@@ -140,9 +140,7 @@
 
       <!-- Dados de contato do anunciante -->
       <ContactInfo>
-        <Name>Jaqueline Herms Barros</Name>
-        <Website>https://comalmaimoveis.com.br</Website>
-        <Telephone>(21) 98150-8894</Telephone>
+        <Name>Imobiliaria Teste</Name>
         <Location>
           <Country abbreviation="BR">Brasil</Country>
           <State abbreviation="AM">Amazonas</State>
