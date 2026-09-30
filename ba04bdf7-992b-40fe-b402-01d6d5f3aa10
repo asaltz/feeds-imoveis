@@ -4,7 +4,7 @@
   <Provider>Praedium</Provider>
   <Email>integracoes@praedium.com.br</Email>
   <ContactName>Praedium Tecnologia Imobiliária</ContactName>
-  <PublishDate>2026-09-30T05:47:28</PublishDate>
+  <PublishDate>2026-09-30T11:30:04</PublishDate>
   <Telephone>13-3032 3823</Telephone>
  </Header>
  <Listings>
@@ -2420,6 +2420,7 @@ Agende sua visita e sinta pessoalmente tudo o que este imóvel pode despertar em
       <Item medium="image" caption="img20">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977812790045650/zikjux42otqzmtbmmmrlnwvi_md.jpg</Item>
       <Item medium="image" caption="img21">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977814267417278/huvugco2otqzmtbmndvlzdnk_md.jpg</Item>
     </Media>
+    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
     <Details>
       <UsageType>Residential</UsageType>
       <PropertyType>Residential / Apartment</PropertyType>
@@ -4747,6 +4748,7 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
     <TransactionType>For Sale</TransactionType>
     <PublicationType>PREMIUM</PublicationType>
     <Media>
+      <Item medium="video">https://www.youtube.com/watch?v=jRk1m3U2ggw</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/9896955539405/kwxhflu2owi4mjcwyzeznmu3_md.jpg</Item>
       <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/1115591060555391/p6rgsyy2owi4mjcwzdjjowfm_md.jpg</Item>
       <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31933911429886/1edf5m2ytk4n2myzda4nmq4_md.jpg</Item>
