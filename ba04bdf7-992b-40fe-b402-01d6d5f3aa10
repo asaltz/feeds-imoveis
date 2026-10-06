@@ -4,7 +4,7 @@
   <Provider>Praedium</Provider>
   <Email>integracoes@praedium.com.br</Email>
   <ContactName>Praedium Tecnologia Imobiliária</ContactName>
-  <PublishDate>2026-10-05T05:47:27</PublishDate>
+  <PublishDate>2026-10-06T05:47:27</PublishDate>
   <Telephone>13-3032 3823</Telephone>
  </Header>
  <Listings>
@@ -1930,148 +1930,6 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <PostalCode>22010-010</PostalCode>
       <Latitude>-22.9634468</Latitude>
       <Longitude>-43.1719228</Longitude>
-    </Location>
-    <ContactInfo>
-      <Name>Lotus com Alma Imóveis</Name>
-      <Email>jaqueline.lothusrj@gmail.com</Email>
-      <Website>comalmaimoveis.com.br</Website>
-      <Telephone>(21) 98150-8894</Telephone>
-      <Location>
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RJ">Rio de Janeiro</State>
-        <City>Rio de Janeiro</City>
-        <Neighborhood>Leblon</Neighborhood>
-        <Address>Rua Humberto de campos, 1003</Address>
-      </Location>
-    </ContactInfo>
-  </Listing>
-  <Listing>
-    <ListingID>12</ListingID>
-    <Title><![CDATA[Cobertura espetacular com vista indevassável para Lagoa, Dois Irmãos e verde!]]></Title>
-    <TransactionType>For Sale</TransactionType>
-    <PublicationType>PREMIUM</PublicationType>
-    <Media>
-      <Item medium="video">https://www.youtube.com/watch?v=hCwnRtc8WHw</Item>
-      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976332402073590/bduiao42otqzmgiyowm5mme3_md.jpg</Item>
-      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976334171421918/4kd1vs42otqzmgiyyje5nti3_md.jpg</Item>
-      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976331719235240/bbj1bf42otqzmgiyownkmwe4_md.jpg</Item>
-      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976333593022129/r8azyy42otqzmgiyyjfkntyy_md.jpg</Item>
-      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976330926157427/9krpbu2otqzmgiyotbiodvk_md.jpg</Item>
-      <Item medium="image" caption="img5">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976333015888703/psnifcq2otqzmgiyyjixntyy_md.jpg</Item>
-      <Item medium="image" caption="img6">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976335214545737/rxngako2otqzmgiyy2nhnjvh_md.jpg</Item>
-      <Item medium="image" caption="img7">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976334717134649/xobex602otqzmgiyy2njoty0_md.jpg</Item>
-      <Item medium="image" caption="img8">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976336858911065/wsiphbw2otqzmgiyzgrlnzc4_md.jpg</Item>
-      <Item medium="image" caption="img9">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976336341260063/r6hlktg2otqzmgiyzguymda5_md.jpg</Item>
-      <Item medium="image" caption="img10">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976335819873255/srmlw5g2otqzmgiyzgu1ytvh_md.jpg</Item>
-      <Item medium="image" caption="img11">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976337936427433/blzw7h02otqzmgiyzjdjnmux_md.jpg</Item>
-      <Item medium="image" caption="img12">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976337396031613/nqjigco2otqzmgiyzjdlmzbi_md.jpg</Item>
-      <Item medium="image" caption="img13">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976339446097268/44shds2otqzmgizmdkynzri_md.jpg</Item>
-      <Item medium="image" caption="img14">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976339000338148/49kbcg2otqzmgizmdk0mzlk_md.jpg</Item>
-      <Item medium="image" caption="img15">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976338493853756/bwqwcqm2otqzmgizmdk2mgq4_md.jpg</Item>
-      <Item medium="image" caption="img16">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976340617282225/f5rns02otqzmgizmjixnmrj_md.jpg</Item>
-      <Item medium="image" caption="img17">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976340099940888/jawwffg2otqzmgizmji0odu0_md.jpg</Item>
-      <Item medium="image" caption="img18">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976342032664597/j9ji7z02otqzmgizmzmwntkw_md.jpg</Item>
-      <Item medium="image" caption="img19">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976341535835479/9zjvn2c2otqzmgizmzmymjiz_md.jpg</Item>
-      <Item medium="image" caption="img20">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976341092111754/oel9nxo2otqzmgizmzmzzjg3_md.jpg</Item>
-      <Item medium="image" caption="img21">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976342952638179/lrf3aku2otqzmgizndlkzjdi_md.jpg</Item>
-      <Item medium="image" caption="img22">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976342535622151/g1lts5e2otqzmgizngewndgz_md.jpg</Item>
-      <Item medium="image" caption="img23">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976344442363651/exzggwa2otqzmgizntg0zdmy_md.jpg</Item>
-      <Item medium="image" caption="img24">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976343951673076/qox7zjm2otqzmgizntg2yjlh_md.jpg</Item>
-      <Item medium="image" caption="img25">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976343438437965/r6pcbfs2otqzmgizntg4odyz_md.jpg</Item>
-      <Item medium="image" caption="img26">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976345423204597/pskbr442otqzmgiznze1mdiy_md.jpg</Item>
-      <Item medium="image" caption="img27">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976344973211321/rcwbwpc2otqzmgiznze2zjy3_md.jpg</Item>
-      <Item medium="image" caption="img28">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976346902435557/a51zx3s2otqzmgizodbly2iz_md.jpg</Item>
-      <Item medium="image" caption="img29">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976346424084009/34gc2cm2otqzmgizodexytu5_md.jpg</Item>
-      <Item medium="image" caption="img30">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976345963124807/xwvdczc2otqzmgizodezzjfm_md.jpg</Item>
-      <Item medium="image" caption="img31">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976348036935581/hurlo0y2otqzmgizotk5ndex_md.jpg</Item>
-      <Item medium="image" caption="img32">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976347518635778/mehaoog2otqzmgizotliy2zm_md.jpg</Item>
-      <Item medium="image" caption="img33">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976349576739693/jswxi702otqzmgizywe0ywrl_md.jpg</Item>
-      <Item medium="image" caption="img34">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976349062837382/hm6eoc42otqzmgizywe2zwy3_md.jpg</Item>
-      <Item medium="image" caption="img35">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976348570997881/cjssm4c2otqzmgizywe4zti2_md.jpg</Item>
-      <Item medium="image" caption="img36">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976350806290263/a6ccen02otqzmgizyzjlyzy4_md.jpg</Item>
-      <Item medium="image" caption="img37">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976350086404728/oztu1ye2otqzmgizyzmymtk4_md.jpg</Item>
-      <Item medium="image" caption="img38">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976352386894374/qsy9ahu2otqzmgizzdc0ntfi_md.jpg</Item>
-      <Item medium="image" caption="img39">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976351893450523/zvhhpkm2otqzmgizzdc2ntmy_md.jpg</Item>
-      <Item medium="image" caption="img40">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976351372843029/2xfoknw2otqzmgizzdc4odfm_md.jpg</Item>
-      <Item medium="image" caption="img41">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976353418899479/mg5ruew2otqzmgizzja0nmvj_md.jpg</Item>
-      <Item medium="image" caption="img42">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976352905361212/j71ktjq2otqzmgizzja2nty3_md.jpg</Item>
-      <Item medium="image" caption="img43">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976355087746530/c7zgyi2otqzmgi0mde5mjcx_md.jpg</Item>
-      <Item medium="image" caption="img44">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976354570616248/8ybmomm2otqzmgi0mdfjmjnh_md.jpg</Item>
-      <Item medium="image" caption="img45">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976354008174606/gw6dihc2otqzmgi0mdfmnzhi_md.jpg</Item>
-      <Item medium="image" caption="img46">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976356134451620/oibpy9m2otqzmgi0mwjmndcz_md.jpg</Item>
-      <Item medium="image" caption="img47">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976355671534174/omt3i82otqzmgi0mwmxnze1_md.jpg</Item>
-      <Item medium="image" caption="img48">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976357260319606/t0im5pe2otqzmgi0mmi1mdjh_md.jpg</Item>
-      <Item medium="image" caption="img49">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976356631127938/lbg3mki2otqzmgi0mmi3othl_md.jpg</Item>
-    </Media>
-    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
-    <Details>
-      <UsageType>Residential</UsageType>
-      <PropertyType>Residential / Penthouse</PropertyType>
-      <Description><![CDATA[Cobertura espetacular clara, arejada com vista indevassável para Lagoa, verde e Dois Irmãos. Para quem gosta de privacidade, vista, natureza, conforto e muito espaço essa cobertura incrível é a melhor escolha pra sua família. Localizada de frente para a Lagoa Rodrigo de Freitas com fácil acesso a pé para Lagoa e ao metro da estação do Camtagalo, a poucos minutos de bike da praia de Ipanema, é viver bem na Lagoa com acesso a tudo que tem ao redor.
-
-Se divide em: primeiro piso, hall de entrada, sala em três ambientes integrada a vasta varanda com vista indevassável para a Lagoa e os Dois Irmãos, lavabo, três suítes, sendo duas com closet e a master com dois closets e dois banheiros com vista livre para o verde, sala de apoio podendo ser transformada em escritório, ampla cozinha com dependência completa com acesso em escada de caracol para o segundo andar. Segundo piso com acesso por linda escada linear,  duas salas, uma delas integrada a ampla varanda com vista livre, lavabo, uma suíte com closet, academia, área de acesso a parte externa totalmente equipada com  elevador de alimentos, área gourmet, vasta área externa com piscina e vista incrível para o verde, Lagoa e Dois Irmãos. Portaria 24hrs e circuito interno de TV. Entre em contato, agende a sua visita!
-
-Não é ainda o que você procura? Entre contato conosco, trabalhamos com atendimento super personalizado, fazendo uma busca e mapeamento de mercado com imóveis dentro do perfil que está buscando.
-
-Acesse o nosso site, venha descobrir o nosso jeito C' ALMA de trabalhar :)
-
-Estamos prontos para transformar sua busca em uma experiência inesquecível!]]></Description>
-      <ListPrice currency="BRL">10800000</ListPrice>
-      <LivingArea unit="square metres">629</LivingArea>
-      <LotArea unit="square metres">629</LotArea>
-      <PropertyAdministrationFee currency="BRL">6043</PropertyAdministrationFee>
-      <Iptu currency="BRL" period="Monthly">3080</Iptu>
-      <Bedrooms>4</Bedrooms>
-      <Bathrooms>7</Bathrooms>
-      <Suites>4</Suites>
-      <Garage>4</Garage>
-      <Features>
-        <Feature>Integrated Environments</Feature>
-        <Feature>Cooling</Feature>
-        <Feature>Kitchen Cabinets</Feature>
-        <Feature>Builtin Wardrobe</Feature>
-        <Feature>Blindex Box</Feature>
-        <Feature>Closet</Feature>
-        <Feature>Large Kitchen</Feature>
-        <Feature>Home Office</Feature>
-        <Feature>Lavabo</Feature>
-        <Feature>Planned Furniture</Feature>
-        <Feature>Dinner Room</Feature>
-        <Feature>Large Room</Feature>
-        <Feature>Balcony</Feature>
-        <Feature>Gourmet Balcony</Feature>
-        <Feature>Panoramic View</Feature>
-        <Feature>Alarm System</Feature>
-        <Feature>Intercom</Feature>
-        <Feature>Walls Grids</Feature>
-        <Feature>Electronic Gate</Feature>
-        <Feature>Concierge 24h</Feature>
-        <Feature>Gym</Feature>
-        <Feature>Pets Allowed</Feature>
-        <Feature>Pool</Feature>
-        <Feature>Maid's Quarters</Feature>
-        <Feature>Bicycles Place</Feature>
-        <Feature>Employee Dependency</Feature>
-        <Feature>Pantry</Feature>
-        <Feature>Elevator</Feature>
-        <Feature>Parking Garage</Feature>
-        <Feature>Entrance Hall</Feature>
-        <Feature>Wood Floor</Feature>
-        <Feature>Laminated Floor</Feature>
-        <Feature>Porcelain</Feature>
-      </Features>
-    </Details>
-    <Location displayAddress="All">
-      <Country abbreviation="BR">Brasil</Country>
-      <State abbreviation="RJ">Rio de Janeiro</State>
-      <City>Rio de Janeiro</City>
-      <Neighborhood>Lagoa</Neighborhood>
-      <Address>Praça Benedito Cerqueira</Address>
-      <StreetNumber>7</StreetNumber>
-      <Complement>vista verde</Complement>
-      <PostalCode>22471-090</PostalCode>
-      <Latitude>-22.9759986</Latitude>
-      <Longitude>-43.1980203</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -4748,7 +4606,7 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
     <TransactionType>For Sale</TransactionType>
     <PublicationType>PREMIUM</PublicationType>
     <Media>
-      <Item medium="video">https://www.youtube.com/watch?v=jRk1m3U2ggw</Item>
+      <Item medium="video">https://www.youtube.com/watch?v=bn5Wyh7VJ0s</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/9896955539405/kwxhflu2owi4mjcwyzeznmu3_md.jpg</Item>
       <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/1115591060555391/p6rgsyy2owi4mjcwzdjjowfm_md.jpg</Item>
       <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31933911429886/1edf5m2ytk4n2myzda4nmq4_md.jpg</Item>
